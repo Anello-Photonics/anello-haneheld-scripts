@@ -1,0 +1,4 @@
+pyulog==1.2.2
+numpy
+pandas
+matplotlib
